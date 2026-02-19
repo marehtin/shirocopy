@@ -1,0 +1,235 @@
+{
+    "users": {
+        "363567819947900928": {
+            "name": "Martin",
+            "level": 30,
+            "experience": 7.5,
+            "totalexp": 56485,
+            "primogems": 268780,
+            "theme": "Klee",
+            "msgnb": 1007,
+            "wish": {
+                "total": 0,
+                "able": true,
+                "limited": {
+                    "4": {
+                        "pity": 5,
+                        "50/50": true
+                    },
+                    "5": {
+                        "pity": 61,
+                        "50/50": false
+                    }
+                },
+                "permanent": {
+                    "4": {
+                        "pity": 0
+                    },
+                    "5": {
+                        "pity": 0
+                    }
+                }
+            },
+            "inventory": {
+                "characters": {
+                    "Neuvilette": 6,
+                    "Faruzan": 186,
+                    "Bennett": 21,
+                    "Lynette": 25,
+                    "Xinyan": 60,
+                    "Xiangling": 27,
+                    "Mika": 26,
+                    "Rosaria": 54,
+                    "Candace": 16,
+                    "Alhaitam": 0,
+                    "Gorou": 31,
+                    "Chongyun": 51,
+                    "Noelle": 60,
+                    "Razor": 49,
+                    "Kaveh": 37,
+                    "Thomas": 23,
+                    "Dehya": 14,
+                    "Nahida": 1,
+                    "Xinqiu": 43,
+                    "Heizou": 168,
+                    "Jean": 7,
+                    "Matsuoka Rin": 0,
+                    "Collei": 30,
+                    "Ningguang": 20,
+                    "Yun Jin": 49,
+                    "Barbara": 167,
+                    "Layla": 20,
+                    "Blanche": 69,
+                    "Mona": 16,
+                    "Yanfei": 31,
+                    "Sukuna": 0,
+                    "Dori": 36,
+                    "Qiqi": 7,
+                    "Sayu": 21,
+                    "Kirara": 18,
+                    "Fischl": 36,
+                    "Kazuha": 0,
+                    "Dainsleif": 0,
+                    "Klee": 0,
+                    "Inès": 0,
+                    "Shinobu": 41,
+                    "Martin": 2,
+                    "Beidou": 22,
+                    "Furina": 13,
+                    "Charlotte": 14,
+                    "Tighnari": 3,
+                    "Sucrose": 19,
+                    "Dottore": 2,
+                    "Muzan": 2,
+                    "Nilou": 10,
+                    "Keqing": 6,
+                    "Kujou Sara": 15,
+                    "Miyano Mamoru": 0,
+                    "Venti": 0,
+                    "Diona": 14,
+                    "Diluc": 7,
+                    "Itto": 0,
+                    "Baizhu": 1,
+                    "Xiao": 1,
+                    "Aloy": 0,
+                    "Shogun Raiden": 1,
+                    "Freminet": 19,
+                    "Cyno": 0,
+                    "Tartaglia": 0,
+                    "Wanderer": 1,
+                    "Shenhe": 0,
+                    "Dazai": 1,
+                    "Albedo": 0
+                },
+                "weapons": {
+                    "Arc du corbeau": 875,
+                    "Ombre ferreuse": 879,
+                    "Epée de la raison": 897,
+                    "Messager de l'aube": 889,
+                    "Orbe jadien": 879,
+                    "Lame froide": 881,
+                    "Epée sanglante": 864,
+                    "Pampille noire": 889,
+                    "Serment de l'archer": 877,
+                    "Histoire des chasseurs de dragon": 924,
+                    "Pampille blanche": 891,
+                    "Epée céleste": 858
+                }
+            }
+        },
+        "693463556661706752": {
+            "name": "⟬𝙾𝚝𝚊𝚔𝚄𝚠𝚄_𝚎𝚡𝚎™⟭",
+            "level": 28,
+            "experience": 259,
+            "totalexp": 49084,
+            "primogems": 230327,
+            "theme": "Mamoru",
+            "msgnb": 894,
+            "wish": {
+                "total": 0,
+                "able": true,
+                "limited": {
+                    "4": {
+                        "pity": 4,
+                        "50/50": false
+                    },
+                    "5": {
+                        "pity": 49,
+                        "50/50": true
+                    }
+                },
+                "permanent": {
+                    "4": {
+                        "pity": 0
+                    },
+                    "5": {
+                        "pity": 10
+                    }
+                }
+            },
+            "inventory": {
+                "characters": {
+                    "Mona": 10,
+                    "Chongyun": 50,
+                    "Mika": 34,
+                    "Xinqiu": 52,
+                    "Xinyan": 65,
+                    "Collei": 47,
+                    "Bennett": 45,
+                    "Faruzan": 35,
+                    "Dori": 57,
+                    "Heizou": 34,
+                    "Neuvilette": 8,
+                    "Noelle": 72,
+                    "Yun Jin": 44,
+                    "Yanfei": 43,
+                    "Matsuoka Rin": 31,
+                    "Razor": 42,
+                    "Shinobu": 31,
+                    "Kirara": 21,
+                    "Rosaria": 37,
+                    "Kaveh": 55,
+                    "Lynette": 56,
+                    "Sayu": 33,
+                    "Keqing": 7,
+                    "Sukuna": 6,
+                    "Qiqi": 9,
+                    "Beidou": 55,
+                    "Fischl": 55,
+                    "Freminet": 28,
+                    "Dainsleif": 9,
+                    "Kujou Sara": 44,
+                    "Candace": 23,
+                    "Xiangling": 34,
+                    "Ningguang": 44,
+                    "Tighnari": 10,
+                    "Dazai": 6,
+                    "Barbara": 64,
+                    "Sucrose": 24,
+                    "Dehya": 14,
+                    "Dottore": 3,
+                    "Zhongli": 7,
+                    "Diona": 22,
+                    "Jean": 6,
+                    "Charlotte": 28,
+                    "Muzan": 7,
+                    "Miyano Mamoru": 16,
+                    "Layla": 27,
+                    "Diluc": 4,
+                    "Thomas": 24,
+                    "Gorou": 34,
+                    "Itto": 4,
+                    "Martin": 7,
+                    "Alhaitam": 1,
+                    "Wanderer": 1
+                },
+                "weapons": {
+                    "Arc du corbeau": 795,
+                    "Lame froide": 881,
+                    "Epée sanglante": 853,
+                    "Serment de l'archer": 825,
+                    "Ombre ferreuse": 843,
+                    "Epée céleste": 822,
+                    "Histoire des chasseurs de dragon": 797,
+                    "Pampille noire": 810,
+                    "Messager de l'aube": 805,
+                    "Epée de la raison": 829,
+                    "Pampille blanche": 845,
+                    "Orbe jadien": 797
+                }
+            }
+        }
+    },
+    "blancheChatState": 1,
+    "count": 700,
+    "phase": 101,
+    "current5banners": [
+        "Wriothesley",
+        "Matsuoka Rin"
+    ],
+    "current4banners": [
+        "Yun Jin",
+        "Gorou",
+        "Beidou"
+    ]
+}
